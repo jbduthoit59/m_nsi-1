@@ -1,4 +1,10 @@
-# m_nsi
+# Bienvenue sur mon site de Maths et NSI
+
+## Vous y touverez mes supports de cours, quelques qcm et exercices corrigés
 
 
-$u_n$
+Accès par matière et niveau:
+|Maths Seconde|m/2/index.md|
+|Maths Spécialité première|m/1/index.md|
+|NSI Spécialité première|nsi/1/index.md|
+|NSI Spécialité terminale|nsi/t/index.md|
