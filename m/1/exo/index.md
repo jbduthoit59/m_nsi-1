@@ -1,6 +1,7 @@
 ## Correction de quelques exercices
 
 ### Exos indépendances
+
 |Exercice 57 et 58 page 303|lien|
 |Exercice 85 page 303|lien|
 |Exercice 85 page 303|lien|
