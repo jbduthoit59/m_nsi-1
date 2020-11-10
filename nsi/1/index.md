@@ -9,6 +9,6 @@
 
 
 
-## Quelques vidéos !
-[vidéo](https://youtube.com/channel/UCO0N4ExyrTAh4UdC14CZ5hQ)
+## Quelques vidéos :-)!
+- [vidéo youtube](https://youtube.com/channel/UCO0N4ExyrTAh4UdC14CZ5hQ)
 
