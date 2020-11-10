@@ -1,4 +1,4 @@
-## Correction de quelques exercices
+## Correction de quelques exercices de probabilité
 
 ### Exos indépendances
 
