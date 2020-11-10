@@ -1,5 +1,3 @@
-title : essai
-
 ## Correction de quelques exercices de probabilité
 
 ### Exos indépendances
