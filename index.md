@@ -10,14 +10,3 @@ Accès par matière et niveau:
 |[NSI Spécialité première](nsi/1/index.md)|
 |[NSI Spécialité terminale](nsi/t/index.md)|
 
-
-[ess](https://gesis.mybinder.org/binder/v2/gh/ipython/ipython-in-depth/7e5ce96cc9251083979efdfc393425f1229a4a68?filepath=binder%2FUntitled.ipynb)
-
-
-This math is inline $`a^2+b^2=c^2`$.
-
-This is on a separate line
-
-```math
-a^2+b^2=c^2
-```
