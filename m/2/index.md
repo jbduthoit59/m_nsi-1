@@ -6,4 +6,6 @@
 ## Généralités sur les fonctions
 - [Le cours et les savoir-faire](maths_2_ch2.pdf)
 
+## Les vecteurs du plan
+- [Le cours et les savoir-faire](maths_2_ch3.pdf)
 
